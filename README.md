@@ -31,6 +31,7 @@ I mainly work with **Swift** and iOS app development, always prioritizing clean 
 
 <div align="center">
   
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=dbragabarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/dbragabarbosa">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbragabarbosa&layout=compact&langs_count=7&theme=tokyonight&hide=jupyter%20notebook"/>
 </div>
@@ -38,10 +39,11 @@ I mainly work with **Swift** and iOS app development, always prioritizing clean 
 ##
 <h3>Languages and tools:</h3>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Swift" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/???????">
-  <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/???????">
+  <img align="center" alt="Swift" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+  <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ##
