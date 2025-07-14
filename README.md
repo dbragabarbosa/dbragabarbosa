@@ -21,12 +21,6 @@ Here are some ideas to get you started:
 🏆 Awarded by Apple as a winner of the **Swift Student Challenge 2025**.  
 🚀 Driven by innovation and focused on user experience, I aim to collaborate on projects that combine technology and purpose, creating real value for people and organizations.
 
----
-
-## 💻 About me
-I mainly work with **Swift** and iOS app development, always prioritizing clean code, testing and user-centered design.
-
----
 
 <div align="center">
   <a href="https://github.com/dbragabarbosa">
