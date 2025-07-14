@@ -30,10 +30,9 @@ I mainly work with **Swift** and iOS app development, always prioritizing clean 
 ---
 
 <div align="center">
-  
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=dbragabarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/dbragabarbosa">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbragabarbosa&layout=compact&langs_count=7&theme=tokyonight&hide=jupyter%20notebook"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=dbragabarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 ##
